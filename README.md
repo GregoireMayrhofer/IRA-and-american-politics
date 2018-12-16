@@ -30,4 +30,5 @@ Once this is done you only need to put the data at the root of the clone of this
 
 # Actual state
 Milestone 3 is done.
+
 Next step: Final presentation and poster
