@@ -22,6 +22,12 @@ Our goal is to analyze the Internet Research Agency’s strategy, its efficiency
 # Dataset
 We use data from FiveThirtyEight containing nearly 3 million tweets sent from Twitter, all connected to the Internet Research Agency, a Russian "troll factory" and a defendant in an indictment filed by the Justice Department in February 2018, as part of special counsel Robert Mueller's Russia investigation. The tweets in this database were sent between February 2012 and May 2018, with the vast majority posted from 2015 through 2017.
 
+To download the data you need to connect to kaggle and launch the following command:
+- kaggle datasets download -d fivethirtyeight/russian-troll-tweets
+Or you can go on :
+- https://www.kaggle.com/fivethirtyeight/russian-troll-tweets and download it by hand.
+Once this is done you only need to put the data at the root of the clone of this repository in a folder named: russian-troll-tweets and then you can launch the code in a jupyter notebook.
+
 # Actual state
 Milestone 3 is done.
 Next step: Final presentation and poster
