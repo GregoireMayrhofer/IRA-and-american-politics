@@ -16,7 +16,7 @@ Our goal is to analyze the Internet Research Agency’s strategy, its efficiency
 # Contribution
 - Arnaud : Algorithm writing, detection of IRA strategy, trend detections, Report
 - Henry : Tweet Schemes using PCA, Graph , Report
-- Gregoire : Data Collection & Cleaning, Graph Ploting , Report
+- Gregoire : Data Exploration & Cleaning, Graph Ploting , Report
 - All: Final presentation and Poster
 
 # Dataset
