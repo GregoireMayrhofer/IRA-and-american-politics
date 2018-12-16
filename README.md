@@ -14,9 +14,9 @@ Our goal is to analyze the Internet Research Agency’s strategy, its efficiency
 - What strategy does the IRA adopt to mock real users?
 
 # Contribution
-- Arnaud : Algorithm writing, detection of IRA strategy, trend detections, Report
+- Arnaud : Detection of IRA strategy, trend detections, Report
 - Henry : Tweet Schemes using PCA, Graph , Report
-- Gregoire : Data Exploration & Cleaning, Graph Ploting , Report
+- Gregoire : Data Exploration & Cleaning, Ploting , Report
 - All: Final presentation and Poster
 
 # Dataset
