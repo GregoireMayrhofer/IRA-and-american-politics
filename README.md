@@ -26,6 +26,7 @@ To download the data you need to connect to kaggle and launch the following comm
 - kaggle datasets download -d fivethirtyeight/russian-troll-tweets
 Or you can go on :
 - https://www.kaggle.com/fivethirtyeight/russian-troll-tweets and download it by hand.
+
 Once this is done you only need to put the data at the root of the clone of this repository in a folder named: russian-troll-tweets and then you can launch the code in a jupyter notebook.
 
 # Actual state
