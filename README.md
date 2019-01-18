@@ -8,8 +8,7 @@ Our goal is to analyze the Internet Research Agency’s strategy, its efficiency
 # Research questions 
 - What themes, hashtags, politicians are mostly addressed?
 - Has the writing style changed over time? Is it very different depending on the autor? 
-- What strategies did IRA implement? 
-- What strategy does the IRA adopt to mock real users?
+- What strategies did IRA implement to broadcast their views? and to mock real users?
 
 # Contribution
 - Arnaud : Detection of IRA strategy, trend detections, Report
