@@ -7,10 +7,8 @@ Our goal is to analyze the Internet Research Agency’s strategy, its efficiency
 
 # Research questions 
 - What themes, hashtags, politicians are mostly addressed?
-- How did the IRA influence US politics? How efficient was it regarding the popularity of politicians?
 - Has the writing style changed over time? Is it very different depending on the autor? 
 - What strategies did IRA implement? 
-- What sentiment is dominant in those tweets, is it constant over time?
 - What strategy does the IRA adopt to mock real users?
 
 # Contribution
